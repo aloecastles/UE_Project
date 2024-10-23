@@ -1,4 +1,4 @@
-PillarFollower basic mechanic implementation
+Spawner and Follower basic mechanics implementation
 
 
 
